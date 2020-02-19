@@ -11,3 +11,7 @@ Conference itself takes place on 17-20th.
 
 ## Ideas on similar Hackatons
 * https://dighumlab.org/events/acdh-virtual-hackathon/
+
+## Data Sources, APIs, Tools
+
+* http://nlp.ailab.lv/ (need to get documentation on the API)
