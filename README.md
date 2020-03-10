@@ -15,3 +15,7 @@ Conference itself takes place on 17-20th.
 ## Data Sources, APIs, Tools
 
 * http://nlp.ailab.lv/ (need to get documentation on the API)
+
+
+## Binder
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ValRCS/LNB_DH_03_20/master)
