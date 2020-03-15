@@ -12,4 +12,6 @@
 * Swiss Impresso example
 * https://impresso-project.ch/
 * https://impresso-project.ch/app/
+Notes: using d3.js - inline svg, vue for front end
+
 * https://books.google.com/ngrams - Google must have a very good index for these due to speed
