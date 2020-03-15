@@ -10,3 +10,5 @@
 
 ## Analysis Tools
 * Swiss Impresso example
+* https://impresso-project.ch/
+* https://books.google.com/ngrams - Google must have a very good index for these due to speed
