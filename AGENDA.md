@@ -36,3 +36,26 @@ concordances
 add latvian Lemma
 collocations
 
+How Corpuses Differ
+
+SketchEngine examples
+
+Voyant Tools examples
+
+First research
+
+Q: Research but also
+
+## literatura.lv
+Eva literature
+
+* Biographical Data
+* Add Textual
+* Clean Text Problem
+
+Example
+19-20th - urban analysis - movement to Cities?
+Hopefully no link rot in citations
+
+
+
