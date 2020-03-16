@@ -121,6 +121,16 @@ Improved
 
 Annotator Tool - format questions
 
+Provide Annotator to Public eventually ?
+
+Text Corpus Cleaned (avoid PDF-> text, need to get clean Text)
+
+Aspazija - Aspazija - Aspazija
+
+Aspazija's nonexistent sister -> Rainis sister  manual for now
+
+
+
 
 
 
