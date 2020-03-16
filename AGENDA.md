@@ -130,6 +130,15 @@ Aspazija - Aspazija - Aspazija
 Aspazija's nonexistent sister -> Rainis sister  manual for now
 
 
+# Arturs
+
+Hover on Text explanation
+Turn on tool -> Hover -> Explanation -> Front 
+
+## Dream
+Following Street Names, Time Sensitive data, Temperature, Prices (shilling etc)
+
+
 
 
 
