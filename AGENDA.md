@@ -57,5 +57,15 @@ Example
 19-20th - urban analysis - movement to Cities?
 Hopefully no link rot in citations
 
+### Examples of mapping urban movement in fiction
+* Places
+
+* Hand Curated Place map - would be great to use it
+
+### Next Ulmes University HumLab
+Swedish Research 
+
+
+
 
 
