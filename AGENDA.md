@@ -140,6 +140,12 @@ Following Street Names, Time Sensitive data, Temperature, Prices (shilling etc)
 
 Edge Case, for example Latvian University finishers (who qualifies?)
 
+### Ideas
+* Show all persons in corpus
+* Show all places
+* Super show on map with frequency (Folium )
+
+
 
 
 
