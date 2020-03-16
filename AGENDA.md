@@ -34,4 +34,5 @@ freq count
 
 concordances
 add latvian Lemma
+collocations
 
