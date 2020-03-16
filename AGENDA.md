@@ -79,8 +79,11 @@ Swedish Research
 Text Mining and Modeling 19451989
 
 2 Newspapers - aftonbladet and Dagens Nyheter
+
 Unit of analysi - all text blocks that contain label "Political" ? so preprocessed
+
 How Large is 50M , 7000 text Block, 1 segmentations, 1(fragment or just a headline).
+
 What Kind MetaData - Name, Time, TextBlockID, Position, Page, Article
 
 word matrix
@@ -108,7 +111,7 @@ Plotly, Interactive Widgets
 
 Broad Question - For Digital Library 
 
-Simple search 
+### Simple search for Endusers in Sweden
 * Swedish Example - https://tidningar.kb.se/
 Keywords
 Improved
