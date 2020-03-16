@@ -138,6 +138,7 @@ Turn on tool -> Hover -> Explanation -> Front
 ## Dream
 Following Street Names, Time Sensitive data, Temperature, Prices (shilling etc)
 
+Edge Case, for example Latvian University finishers (who qualifies?)
 
 
 
