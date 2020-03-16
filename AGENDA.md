@@ -15,3 +15,23 @@
 Notes: using d3.js - inline svg, vue for front end
 
 * https://books.google.com/ngrams - Google must have a very good index for these due to speed
+
+
+## Typical Challenges
+
+* Working with external tools , provide on demand corpus
+
+* Working with Ailab tools (possibly LNB hosting) internal tools
+Ailab for reserachers specialized
+
+* Built in functionality in our tools
+Popular
+
+
+AntConc typical 
+how a word behaves
+freq count
+
+concordances
+add latvian Lemma
+
