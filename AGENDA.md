@@ -62,8 +62,62 @@ Hopefully no link rot in citations
 
 * Hand Curated Place map - would be great to use it
 
+
+
+
+## Topic Analysis
+
+* Time Analysis
+* Place Analysis
+* Author Analysis
+* TimeFrame (Soviet, Excile Press)
+
+
 ### Next Ulmes University HumLab
 Swedish Research 
+
+Text Mining and Modeling 19451989
+
+2 Newspapers - aftonbladet and Dagens Nyheter
+Unit of analysi - all text blocks that contain label "Political" ? so preprocessed
+How Large is 50M , 7000 text Block, 1 segmentations, 1(fragment or just a headline).
+What Kind MetaData - Name, Time, TextBlockID, Position, Page, Article
+
+word matrix
+Method - Topic Modeling
+Software -LD Jensic model LOad MOdel
+
+KBLab
+Copyright Protected Material
+
+Solution
+Exract, model and scramble data
+Work with modeled/scrambled data at the university - What can you do with scrambled data?
+* Alphabetical Scrambling
+Preprocessed
+
+
+Large DataSets 
+
+Prepared Notebooks
+For Researchers
+How do you host Notebooks? - Local Hosting 
+For users, how much eperience do you ask of them, how about Appmode?
+1 Developer -> 5 Researchers
+Plotly, Interactive Widgets
+
+Broad Question - For Digital Library 
+
+Simple search 
+* Swedish Example - https://tidningar.kb.se/
+Keywords
+Improved
+
+
+
+
+
+
 
 
 
