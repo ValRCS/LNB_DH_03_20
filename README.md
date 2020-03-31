@@ -19,3 +19,5 @@ Conference itself takes place on 17-20th.
 
 ## Binder
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ValRCS/LNB_DH_03_20/master)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/LNB_DH_03_20/blob/master/Text_to_AILAB_JSON.ipynb)
