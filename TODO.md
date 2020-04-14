@@ -14,3 +14,9 @@
 
 Nākotnē
 Tiešās saites izveide ar DOMun jauno rīku.
+
+14.04-17.04 nedēļa
+
+* jlab.lnb.lnv servera uzstādīšana izmantojot mini Jupyter Hub - patlaban aizķeršanās ar biblioteku konfliktiem ar Zabbix instalāciju (Nauris palīdz)
+* rezultātu ieguve no nlp.ailab.lv  sadalot korpusus pa mazākām vienībām, jo pilnus korpusus ailab.lv rīks nespēj veikt
+* teksta korpusa izveideis rīka pilnveidošana darbam ar dom - papildu metadatu pievienošana
