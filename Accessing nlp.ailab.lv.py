@@ -11,6 +11,7 @@ from datetime import datetime
 from collections import Counter
 import os
 from pathlib import Path
+import argparse
 # external libraries
 # check if additional installation needed
 import plotly.graph_objects as go
@@ -111,6 +112,15 @@ def processFile(file, inpath, outpath="json"):
 
 # In[ ]:
 
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(
+        description='Read DOM Files From URL')
+    parser.add_argument('-d', '--dir', default='todo',
+                        type=str, help="Folder to process all txt files throuh ailab into json")
+    args = parser.parse_args()
+    if args.d:
+        processFolder(args.d)
 
-processFile(files[0], "todo")
+
+
 
