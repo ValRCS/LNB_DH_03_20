@@ -58,6 +58,7 @@ def getData(text, offset=0,limit=None, steps=["tokenizer", "morpho", "parser", "
 def processChunks(chunks):
     return [getNLP(data=getData(chunk)) for chunk in chunks]
 
+@time_decor
 def splitText(text, maxLen=10_000, delim="."):
     chunks = []
     beg = 0
@@ -96,16 +97,19 @@ def getChunks(fpath):
 
 def processFolder(folder):
     files = os.listdir(folder)
-    print(files)
+    for file in files:
+        processFile(file, folder)
 
 
 # In[35]:
 
-
+@time_decor
 def processFile(file, inpath, outpath="json"):
+    print(f"Processing file {file}")
     chunks = getChunks(os.path.join(inpath,file))
     jlist = processChunks(chunks)
     outfile = os.path.join(outpath, Path(file).with_suffix(".json"))
+    print(f"Saving file {outfile}")
     with open(outfile, encoding="utf-8", mode="w") as f:
         json.dump(jlist,f, indent=2, ensure_ascii=False)
 
@@ -116,10 +120,10 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description='Read DOM Files From URL')
     parser.add_argument('-d', '--dir', default='todo',
-                        type=str, help="Folder to process all txt files throuh ailab into json")
+                        type=str, help="Folder to process all txt files through ailab into json")
     args = parser.parse_args()
-    if args.d:
-        processFolder(args.d)
+    if args.dir:
+        processFolder(args.dir)
 
 
 
