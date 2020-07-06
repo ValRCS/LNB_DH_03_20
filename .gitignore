@@ -37,3 +37,7 @@ json/
 books/
 Birkerts.json
 .ipynb_checkpoints/JSON to Pandas-checkpoint.ipynb
+csv/
+parquet/
+Purapuķe_Jānis__Leišu_svētbilžu_griezējs___stāsts_iz_agrākās_leišu_dzīves__771023.csv
+Purapuķe_Jānis__Leišu_svētbilžu_griezējs___stāsts_iz_agrākās_leišu_dzīves__771023.parquet
